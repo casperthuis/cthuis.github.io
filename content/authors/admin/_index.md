@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Casper Thuis
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Casper Thuis
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Casper
+last_name: Thuis
 
 # Status emoji
 status:
@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Deep learning Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: TKH AI
+    url: https://www.tkhgroup.com/about-tkh/innovation/artificial-intelligence
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -48,12 +48,13 @@ profiles:
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Computer Vision
+  - Natural Language Processing
+  - Audio Processing
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: MSc Artificial Intelligence
+    institution: University of Amsterdam
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -61,7 +62,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
+  - area: Bsc Beta Gamma Major Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
     date_end: 2020-12-31
@@ -128,15 +129,19 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Climbing
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Surfing
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Hiking
+        description: ''
+        percent: 80
+        icon: camera
+      - name: Cooking
         description: ''
         percent: 80
         icon: camera
@@ -144,10 +149,10 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Dutch
+    percent: 100
+  - name: Spanish
+    percent: 10
 
 # Awards.
 #   Add/remove as many awards below as you like.
