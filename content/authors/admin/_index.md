@@ -163,7 +163,7 @@ languages:
 awards:
   - title: Practical Leadership
     url: https://www.lepaya.com
-    date: '2023-09-1'
+    date: '2023-09-01'
     awarder: Lepaya
     icon: coursera
     summary: |
